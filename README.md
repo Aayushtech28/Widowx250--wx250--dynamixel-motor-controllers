@@ -165,7 +165,6 @@ Position control includes feedback mechanisms that verify movements were success
 
 ## Future Improvements
 
-- Implement inverse kinematics for end-effector positioning
 - Add trajectory planning for smoother movements
 - Develop a more comprehensive command interface
 - Add support for synchronized multi-motor movements
