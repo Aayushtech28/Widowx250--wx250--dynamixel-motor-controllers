@@ -10,7 +10,6 @@ This repository contains a controller implementation for the WidowX 250 robot ar
 
 - **Motor Auto-Detection**: Automatically scans and identifies connected Dynamixel motors
 - **Position Control**: Precise joint movement with position feedback
-- **Error Recovery**: Advanced error handling and motor recovery protocols
 - **Real-time Feedback**: Continuous position monitoring and status reporting
 - **Serial Command Interface**: Simple text-based command syntax for manual control
 - **Resilient Operation**: Handles connection issues and motor failures gracefully
